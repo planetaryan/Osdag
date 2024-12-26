@@ -874,7 +874,6 @@ class Compression(Member):
         # section properties
         self.mainmodule = 'Struts in Trusses'
         self.module = design_dictionary[KEY_MODULE]
-        self.mainmodule = 'Struts in Trusses'
         self.sizelist = design_dictionary[KEY_SECSIZE]
         self.sec_profile = design_dictionary[KEY_SEC_PROFILE]
         self.sec_list = design_dictionary[KEY_SECSIZE]
